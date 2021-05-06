@@ -1,6 +1,10 @@
 x = 9
 y = 3
 result = 9 / 3
+
+print(result)
+
+
 # result = x + y
 # result = int(x / y) will return and integer not a float as is the default.
 # exponents result = x ** y will return x to the power of y.
@@ -15,6 +19,3 @@ result = 9 / 3
 # result = (x * y) * 2
 #
 #
-
-
-print(result)
