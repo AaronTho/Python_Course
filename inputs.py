@@ -1,3 +1,3 @@
 name = input('Name: ')
-age = imput('Age: ')
-print "hello", name, 'you are', age, 'years old')
+age = input('Age: ')
+print("hello", name, 'you are', age, 'years old')
