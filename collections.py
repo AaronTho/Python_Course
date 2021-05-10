@@ -38,9 +38,9 @@ len = length
 # x[0] = 'Tom Holland'
 # print(x)
 
-x = [4, True, 'hi']
-y = x[:]
-x[0] = 'hello'
-print(x, y)
-w = x[:]
-print(w)
+# x = [4, True, 'hi']
+# y = x[:]
+# x[0] = 'hello'
+# print(x, y)
+# w = x[:]
+# print(w)

@@ -2,17 +2,23 @@
 #     print(i)
 
 # 0-9
-#i = iterator
+# i = iterator
 
 # for i in range(-10, 1, 1):
 #     print(i)
 
 
-#stop, start, step
+# stop, start, step
 
 
 # while condition == True:
 
+# x = [3, 4, 5, 6, 52, 9]
+# for i in range(len(x)):
+#     print(x[i])
+
 x = [3, 4, 5, 6, 52, 9]
-for i in range(len(x)):
-    print(x[i])
+for i, element in enumerate(x):
+    print(i, element)
+
+# enumerate
